@@ -1,0 +1,133 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Kanit', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3{
+  color: #11999E;
+  font-size: 1.8rem;
+  }
+
+p{
+  color: #40514E;
+}
+
+hr{
+  border-color: #B2B2B2;
+  margin: 50px auto 50px auto;
+  border-style: dotted none none;
+  border-width: 8px;
+  width: 5%;
+
+}
+
+.small-txt{
+  font-size: 1.2rem;
+
+}
+
+.txt{
+  font-family: 'Roboto', sans-serif;
+}
+
+.al{
+  text-align: left;
+  padding-right: 50px;
+}
+
+.ar{
+  text-align: right;
+}
+
+.top-div{
+  margin: 0;
+  background-color: #e0ebe8;
+  height: 800px;
+}
+
+.myname{
+  color: #66BFBF;
+  font-family: 'Great Vibes', cursive;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 200px;
+  font-size: 128px;
+  font-weight: 400;
+}
+
+.me{
+  color: #66BFBF;
+  font-family: 'Major Mono Display', monospace;
+  font-size: 48px;
+  margin-top: 16px;
+  font-weight: 400;
+
+}
+
+.cloud1{
+position: absolute;
+left: 250px;
+top: 420px;
+}
+
+.cloud2{
+  position: absolute;
+  right: 250px;
+  top: 160px;
+}
+.mountain{
+  width: 700px;
+  position: relative;
+  bottom: 82px;
+}
+
+.mid-div{
+  background-color: #ffffff;
+}
+
+.my-image{
+  width: 250px;
+  margin-top: 100px;
+  margin-bottom: 25px;
+}
+.skills-img{
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.skills{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  }
+
+.CNC{
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
+
+.skill-row1{
+  margin-top: 150px;
+  height: 175px;
+}
+
+.skill-row2{
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.margin-top{
+  margin-top: 50px;
+}
+
+.skills-title{
+ font-size: 3rem;
+ color: #66BFBF;
+}
